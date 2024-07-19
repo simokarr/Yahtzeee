@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+main {
+    margin: 2rem auto;
+    max-width: 600px;
+}
+
+.dice-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
+
+.dice {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.dice.held {
+    background-color: #ddd;
+}
+
+.controls {
+    margin-bottom: 1rem;
+}
+
+.controls button {
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    font-size: 1rem;
+}
+
+.scoreboard {
+    margin-top: 2rem;
+}
+
+.scoreboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.scoreboard th, .scoreboard td {
+    border: 1px solid #333;
+    padding: 0.5rem;
+}

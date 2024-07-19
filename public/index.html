@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yahtzee Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yahtzee Game</h1>
+    </header>
+    <main>
+        <div class="dice-container" id="dice-container">
+            <div class="dice" id="dice-1" data-index="0"><img src="dice_pictures/1.png" alt="Dice 1"></div>
+            <div class="dice" id="dice-2" data-index="1"><img src="dice_pictures/1.png" alt="Dice 2"></div>
+            <div class="dice" id="dice-3" data-index="2"><img src="dice_pictures/1.png" alt="Dice 3"></div>
+            <div class="dice" id="dice-4" data-index="3"><img src="dice_pictures/1.png" alt="Dice 4"></div>
+            <div class="dice" id="dice-5" data-index="4"><img src="dice_pictures/1.png" alt="Dice 5"></div>
+        </div>
+        <div class="controls">
+            <button id="roll-button">Roll Dice</button>
+            <button id="score-button" disabled>Score</button>
+        </div>
+        <div class="categories">
+            <h2>Choose a Category</h2>
+            <button class="category-button" data-category="threeOfAKind">Three of a Kind</button>
+            <button class="category-button" data-category="fourOfAKind">Four of a Kind</button>
+            <button class="category-button" data-category="fullHouse">Full House</button>
+            <button class="category-button" data-category="smallStraight">Small Straight</button>
+            <button class="category-button" data-category="largeStraight">Large Straight</button>
+            <button class="category-button" data-category="yahtzee">Yahtzee</button>
+            <button class="category-button" data-category="chance">Chance</button>
+        </div>
+        <div class="scoreboard">
+            <h2>Scoreboard</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody id="scoreboard-body">
+                    <!-- Score rows will be added here -->
+                </tbody>
+            </table>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Yahtzee Game</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,550 @@
+[19-Jul-2024 01:20:50 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:52 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:52 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Warning:  require_once(Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:20:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:02 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:04 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:04 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:10 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:13 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:15 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:48 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:50 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:26:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:32 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:33 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:34 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:54 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:27:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:37 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:38 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:39 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:39 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:58 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:29:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:02 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Warning:  require_once(app/models/Game.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:30:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'app/models/Game.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\YahtzeeGame\public\api.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 8
+[19-Jul-2024 01:35:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 01:43:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:18:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:18:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 30
+[19-Jul-2024 04:21:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:21:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:26:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:27:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:27:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:27:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:27:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:28:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:29:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:30:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:33:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:33:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
+[19-Jul-2024 04:33:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: The script tried to call a method on an incomplete object. Please ensure that the class definition "Game" of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in C:\xampp\htdocs\YahtzeeGame\public\api.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\YahtzeeGame\public\api.php on line 24
